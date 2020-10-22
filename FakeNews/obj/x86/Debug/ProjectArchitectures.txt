@@ -1,0 +1,1 @@
+G:\Windows Platform\Lap07\Lap07\FakeNews\FakeNews.csproj;x86
